@@ -1,3 +1,7 @@
+html {
+    background-color: black;
+}
+
 h1 {
     font-family: Verdana;
     font-weight: normal;
@@ -5,3 +9,43 @@ h1 {
     color: white;
     text-align: center;
     }
+
+h2 {
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
+    text-align: center;
+}
+
+h4 {
+    font-family: Verdana;
+    font-size: 21px;
+    color: gray;
+    text-align: center;
+}
+
+    .download {
+        color: aquamarine;
+        font-size: 16px;
+        text-align: center;
+
+    }
+
+    .copyright {
+        font-family: Verdana;
+        font-size: 21px;
+        text-align: right;
+        color: gray;
+    }
+
+/* Images */
+    
+    .tent {
+
+}
+
+    .iphone {
+
+    }
+
+    .
